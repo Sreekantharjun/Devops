@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1644997910,,"wq"
+|2,0,1649251284,,"wq"
 :Wq
 |2,0,1644996934,,"Wq"
 
@@ -25,28 +25,271 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+"i	CHAR	0
+	€krli€kr:wq€kb€kb€kb;wq€kb€kb€kb;€ýaw
+|3,0,18,0,1,0,1648822501,"€krli€kr:wq€kb€kb€kb;wq€kb€kb€kb;€ýaw"
 
 # File marks:
-'0  1  21  ~/file2
-|4,48,1,21,1644997910,"~/file2"
-'1  1  44  ~/file1
-|4,49,1,44,1644997041,"~/file1"
-'2  1  19  ~/file1
-|4,50,1,19,1644996960,"~/file1"
+'0  1  25  ~/bangalore
+|4,48,1,25,1649251284,"~/bangalore"
+'1  1  14  /home/ec2-user/Sreekanth
+|4,49,1,14,1648823544,"/home/ec2-user/Sreekanth"
+'2  1  7  /home/ec2-user/mom
+|4,50,1,7,1648823489,"/home/ec2-user/mom"
+'3  2  0  /home/ec2-user/devops/pubg
+|4,51,2,0,1648822789,"/home/ec2-user/devops/pubg"
+'4  1  9  /mobile
+|4,52,1,9,1645085891,"/mobile"
+'5  1  9  /mobile
+|4,53,1,9,1645085891,"/mobile"
+'6  1  21  ~/file2
+|4,54,1,21,1644997910,"~/file2"
+'7  1  21  ~/file2
+|4,55,1,21,1644997910,"~/file2"
+'8  1  44  ~/file1
+|4,56,1,44,1644997041,"~/file1"
+'9  1  44  ~/file1
+|4,57,1,44,1644997041,"~/file1"
 
 # Jumplist (newest first):
+-'  1  25  ~/bangalore
+|4,39,1,25,1649251284,"~/bangalore"
+-'  1  14  /home/ec2-user/Sreekanth
+|4,39,1,14,1648823544,"/home/ec2-user/Sreekanth"
+-'  1  14  /home/ec2-user/Sreekanth
+|4,39,1,14,1648823544,"/home/ec2-user/Sreekanth"
+-'  1  7  /home/ec2-user/mom
+|4,39,1,7,1648823489,"/home/ec2-user/mom"
+-'  1  7  /home/ec2-user/mom
+|4,39,1,7,1648823489,"/home/ec2-user/mom"
+-'  1  7  /home/ec2-user/mom
+|4,39,1,7,1648823489,"/home/ec2-user/mom"
+-'  1  7  /home/ec2-user/mom
+|4,39,1,7,1648823489,"/home/ec2-user/mom"
+-'  2  0  /home/ec2-user/devops/pubg
+|4,39,2,0,1648822789,"/home/ec2-user/devops/pubg"
+-'  2  0  /home/ec2-user/devops/pubg
+|4,39,2,0,1648822789,"/home/ec2-user/devops/pubg"
+-'  2  0  /home/ec2-user/devops/pubg
+|4,39,2,0,1648822789,"/home/ec2-user/devops/pubg"
+-'  2  0  /home/ec2-user/devops/pubg
+|4,39,2,0,1648822789,"/home/ec2-user/devops/pubg"
+-'  2  0  /home/ec2-user/devops/pubg
+|4,39,2,0,1648822789,"/home/ec2-user/devops/pubg"
+-'  2  0  /home/ec2-user/devops/pubg
+|4,39,2,0,1648822789,"/home/ec2-user/devops/pubg"
+-'  2  0  /home/ec2-user/devops/pubg
+|4,39,2,0,1648822789,"/home/ec2-user/devops/pubg"
+-'  2  0  /home/ec2-user/devops/pubg
+|4,39,2,0,1648822789,"/home/ec2-user/devops/pubg"
+-'  1  0  /home/ec2-user/devops/pubg
+|4,39,1,0,1648822323,"/home/ec2-user/devops/pubg"
+-'  1  0  /home/ec2-user/devops/pubg
+|4,39,1,0,1648822323,"/home/ec2-user/devops/pubg"
+-'  1  0  /home/ec2-user/devops/pubg
+|4,39,1,0,1648822323,"/home/ec2-user/devops/pubg"
+-'  1  0  /home/ec2-user/devops/pubg
+|4,39,1,0,1648822323,"/home/ec2-user/devops/pubg"
+-'  1  0  /home/ec2-user/devops/pubg
+|4,39,1,0,1648822323,"/home/ec2-user/devops/pubg"
+-'  1  0  /home/ec2-user/devops/pubg
+|4,39,1,0,1648822323,"/home/ec2-user/devops/pubg"
+-'  1  0  /home/ec2-user/devops/pubg
+|4,39,1,0,1648822323,"/home/ec2-user/devops/pubg"
+-'  1  0  /home/ec2-user/devops/pubg
+|4,39,1,0,1648822323,"/home/ec2-user/devops/pubg"
+-'  1  9  /mobile
+|4,39,1,9,1645085891,"/mobile"
+-'  1  9  /mobile
+|4,39,1,9,1645085891,"/mobile"
+-'  1  9  /mobile
+|4,39,1,9,1645085891,"/mobile"
+-'  1  9  /mobile
+|4,39,1,9,1645085891,"/mobile"
+-'  1  9  /mobile
+|4,39,1,9,1645085891,"/mobile"
+-'  1  9  /mobile
+|4,39,1,9,1645085891,"/mobile"
+-'  1  9  /mobile
+|4,39,1,9,1645085891,"/mobile"
+-'  1  9  /mobile
+|4,39,1,9,1645085891,"/mobile"
+-'  1  9  /mobile
+|4,39,1,9,1645085891,"/mobile"
+-'  1  9  /mobile
+|4,39,1,9,1645085891,"/mobile"
+-'  1  9  /mobile
+|4,39,1,9,1645085891,"/mobile"
+-'  1  9  /mobile
+|4,39,1,9,1645085891,"/mobile"
+-'  1  9  /mobile
+|4,39,1,9,1645085891,"/mobile"
+-'  1  9  /mobile
+|4,39,1,9,1645085891,"/mobile"
+-'  1  9  /mobile
+|4,39,1,9,1645085891,"/mobile"
+-'  1  9  /mobile
+|4,39,1,9,1645085891,"/mobile"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
+-'  1  21  ~/file2
+|4,39,1,21,1644997910,"~/file2"
 -'  1  21  ~/file2
 |4,39,1,21,1644997910,"~/file2"
 -'  1  44  ~/file1
 |4,39,1,44,1644997041,"~/file1"
 -'  1  44  ~/file1
 |4,39,1,44,1644997041,"~/file1"
--'  1  19  ~/file1
-|4,39,1,19,1644996960,"~/file1"
--'  1  19  ~/file1
-|4,39,1,19,1644996960,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
+-'  1  44  ~/file1
+|4,39,1,44,1644997041,"~/file1"
 
 # History of marks within files (newest to oldest):
+
+> ~/bangalore
+	*	1649251280	0
+	"	1	25
+	^	1	26
+	.	1	25
+	+	1	25
+
+> /home/ec2-user/Sreekanth
+	*	1648823538	0
+	"	1	14
+	^	1	15
+	.	1	14
+	+	1	14
+
+> /home/ec2-user/mom
+	*	1648823477	0
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	7
+
+> /home/ec2-user/devops/pubg
+	*	1648822784	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	1	22
+	+	2	0
+
+> /mobile
+	*	1645085878	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	1	9
 
 > ~/file2
 	*	1644997904	0
